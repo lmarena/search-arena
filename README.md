@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/⚔️-Search Arena-green" alt="Search Arena" />
   </a>
     &nbsp;
-    <a href="">
+    <a href="https://arxiv.org/abs/2506.05334">
       <img src="https://img.shields.io/badge/arXiv-2504.13169-b31b1b.svg" alt="arXiv" />
     </a>
     &nbsp;
@@ -27,7 +27,7 @@
 
 Welcome to the official code repository of **Search Arena**. Explore [⚔️ Search Arena](https://legacy.lmarena.ai/?search) and experiment with state-of-the-art Search-Augmented LLMs (new UI integration is coming soon)!
 
-**Paper**: [**Search Arena: Analyzing Search-Augmented LLMs**]()
+**Paper**: [**Search Arena: Analyzing Search-Augmented LLMs**](https://arxiv.org/abs/2506.05334)
 
 **Authors**: [Mihran Miroyan*](https://mmiroyan.github.io/), [Tsung-Han (Patrick) Wu*](https://tsunghan-wu.github.io/), [Logan King](https://www.linkedin.com/in/logan-king-8a4267281), [Tianle Li](https://codingwithtim.github.io), [Jiayi Pan](https://www.jiayipan.com/), [Xinyan Hu](https://sites.google.com/view/xinyanhu/), [Wei-Lin Chiang](https://infwinston.github.io/), [Anastasios N. Angelopoulos](https://people.eecs.berkeley.edu/~angelopoulos), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Narges Norouzi](https://nargesnorouzi.me//), [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) (UC Berkeley)
 
@@ -67,5 +67,13 @@ Install all necessary dependencies: ``pip3 install -r requirements.txt``
 
 ## Citations
 ```
-TODO
+@misc{miroyan2025searcharenaanalyzingsearchaugmented,
+      title={Search Arena: Analyzing Search-Augmented LLMs}, 
+      author={Mihran Miroyan and Tsung-Han Wu and Logan King and Tianle Li and Jiayi Pan and Xinyan Hu and Wei-Lin Chiang and Anastasios N. Angelopoulos and Trevor Darrell and Narges Norouzi and Joseph E. Gonzalez},
+      year={2025},
+      eprint={2506.05334},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.05334}, 
+}
 ```
